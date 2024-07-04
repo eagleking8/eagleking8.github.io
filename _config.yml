@@ -21,9 +21,9 @@ repository               : "eagleking8/eagleking8.github.io"
 #               Additional customization can be done by editing /_includes/author-profile.html
 author:
   # Biographic information
-  avatar           : "./images/profile.JPG"
+  avatar           : profile.JPG
   name             : "Tao Shi"
-  pronouns         : "he/him""# example: "she/her"
+  pronouns         : "he/him" # example: "she/her"
   bio              : "Independent Researcher"
   location         : "China"
   employer         : "Lanzhou University"
