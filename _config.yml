@@ -7,13 +7,13 @@
 
 # Site Settings
 locale                   : "en-US"
-title                    : "Zehao Yu"
+title                    : "Tao Shi"
 title_separator          : "-"
-name                     : &name "Zehao Yu"
-description              : &description "PhD student at the University of Tübingen"
-url                      : https://niujinshuchong.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
+name                     : &name "Tao Shi"
+description              : &description "Master student at Lanzhou University"
+url                      : https://eagleking8.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
-repository               : "niujinshuchong/niujinshuchong.github.io"
+repository               : "eagleking8/eagleking8.github.io"
 teaser                   :  # filename of teaser fallback teaser image placed in /images/, .e.g. "500x300.png"
 breadcrumbs              : false # true, false (default)
 words_per_minute         : 160
@@ -80,13 +80,13 @@ analytics:
 
 # Site Author
 author:
-  name             : "Zehao Yu"
-  avatar           : "profile.png"
-  bio              : "PhD student at the University of Tübingen"
-  location         : "Tübingen, Germany"
+  name             : "Tao Shi"
+  avatar           : "profile.PEG"
+  bio              : "Master student at Lanzhou University"
+  location         : "Lanzhou, China"
   employer         :
   pubmed           : #"https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
-  googlescholar    : "https://scholar.google.com/citations?user=Z8MwnzsAAAAJ&hl=zh-CN"
+  googlescholar    : #"https://scholar.google.com/citations?user=Z8MwnzsAAAAJ&hl=zh-CN"
   email            :
   researchgate     :  # example: "https://www.researchgate.net/profile/yourprofile"
   uri              :
@@ -96,7 +96,7 @@ author:
   flickr           :
   facebook         :
   foursquare       :
-  github           : "niujinshuchong"
+  github           : "eagleking8"
   google_plus      :
   keybase          :
   instagram        :
