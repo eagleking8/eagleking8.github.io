@@ -10,7 +10,7 @@ locale                   : "en-US"
 title                    : "Tao Shi"
 title_separator          : "-"
 name                     : &name "Tao Shi"
-description              : &description "Master student at Lanzhou University"
+description              : &description "Postgraduate student at Lanzhou University"
 url                      : https://eagleking8.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "eagleking8/eagleking8.github.io"
@@ -82,7 +82,7 @@ analytics:
 author:
   name             : "Tao Shi"
   avatar           : "profile.png"
-  bio              : "Master student at Lanzhou University"
+  bio              : "Postgraduate student at Lanzhou University"
   location         : "Lanzhou, China"
   employer         :
   pubmed           : #"https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
